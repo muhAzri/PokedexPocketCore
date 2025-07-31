@@ -30,14 +30,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		635A38B62E3A3501009E6F13 /* PokedexPocket-Core */ = {
+		635A38B62E3A3501009E6F13 /* PokedexPocketCore */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "PokedexPocket-Core";
+			path = PokedexPocketCore;
 			sourceTree = "<group>";
 		};
-		635A38C32E3A3501009E6F13 /* PokedexPocket-CoreTests */ = {
+		635A38C32E3A3501009E6F13 /* PokedexPocketCoreTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "PokedexPocket-CoreTests";
+			path = PokedexPocketCoreTests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -68,8 +68,8 @@
 		635A38AA2E3A3501009E6F13 = {
 			isa = PBXGroup;
 			children = (
-				635A38B62E3A3501009E6F13 /* PokedexPocket-Core */,
-				635A38C32E3A3501009E6F13 /* PokedexPocket-CoreTests */,
+				635A38B62E3A3501009E6F13 /* PokedexPocketCore */,
+				635A38C32E3A3501009E6F13 /* PokedexPocketCoreTests */,
 				635A38B52E3A3501009E6F13 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,7 +110,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				635A38B62E3A3501009E6F13 /* PokedexPocket-Core */,
+				635A38B62E3A3501009E6F13 /* PokedexPocketCore */,
 			);
 			name = "PokedexPocket-Core";
 			packageProductDependencies = (
@@ -137,7 +137,7 @@
 				635A38C22E3A3501009E6F13 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				635A38C32E3A3501009E6F13 /* PokedexPocket-CoreTests */,
+				635A38C32E3A3501009E6F13 /* PokedexPocketCoreTests */,
 			);
 			name = "PokedexPocket-CoreTests";
 			packageProductDependencies = (
@@ -164,7 +164,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 635A38AE2E3A3501009E6F13 /* Build configuration list for PBXProject "PokedexPocket-Core" */;
+			buildConfigurationList = 635A38AE2E3A3501009E6F13 /* Build configuration list for PBXProject "PokedexPocketCore" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -459,7 +459,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		635A38AE2E3A3501009E6F13 /* Build configuration list for PBXProject "PokedexPocket-Core" */ = {
+		635A38AE2E3A3501009E6F13 /* Build configuration list for PBXProject "PokedexPocketCore" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				635A38C62E3A3501009E6F13 /* Debug */,
